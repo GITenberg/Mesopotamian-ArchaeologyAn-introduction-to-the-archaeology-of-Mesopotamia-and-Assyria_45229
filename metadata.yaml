@@ -1,0 +1,28 @@
+_repo: Mesopotamian-ArchaeologyAn-introduction-to-the-archaeology-of-Mesopotamia-and-Assyria_45229
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45229-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Handcock, Percy S. P. (Percy Stuart Peache)
+    alias: Handcock, P. S. P. (Percy Stuart Peache)
+    gutenberg_agent_id: '43158'
+    url: http://www.gutenberg.org/2009/agents/43158
+description: ''
+gutenberg_issued: '2014-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iraq -- Antiquities'
+- !lcc 'DS'
+- !lcc 'N'
+title: 'Mesopotamian Archaeology
+
+  An introduction to the archaeology of Mesopotamia and Assyria'
+url: http://www.gutenberg.org/ebooks/45229
