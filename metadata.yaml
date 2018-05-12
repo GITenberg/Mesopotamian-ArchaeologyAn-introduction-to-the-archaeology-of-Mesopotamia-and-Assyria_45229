@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '43158'
     url: http://www.gutenberg.org/2009/agents/43158
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45229#Mesopotamian-ArchaeologyAn-introduction-to-the-archaeology-of-Mesopotamia-and-Assyria
 gutenberg_issued: '2014-03-26'
 gutenberg_type: Text
 identifiers:
